@@ -13,7 +13,3 @@ My project is a "study clock" in a visually pleasing workspace. Upon reading the
 ![DcJzCj.png](https://imgpile.com/images/DcJzCj.png)
 
 5. Finally, I added a clock button, as seen in the final version.
-
-
-Image with url:  
-![image description](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
