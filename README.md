@@ -1,60 +1,19 @@
-# p5.js Template
+# HW04A Description
 
-This is a README file that can be used to describe and document your assignment.
+My project is a "study clock" in a visually pleasing workspace. Upon reading the assignment instructions, I knew I wanted to mimic the aesthetically pleasing time keeping screensavers I see all over social media, in the niche, 'work setup' content category.
+1. Initially, I mocked the visual up in Figma.
+![DcJmjx.png](https://imgpile.com/images/DcJmjx.png)  
 
-Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)):
+2. I went into VSCode and set up the visual as modeled in Figma.
 
----
----
+3. First, my 3-level dimension was the 1) date, 2) hour, 3) minute of the day. However, I felt like it was too static.
+![DcJ8Vo.png](https://imgpile.com/images/DcJ8Vo.png)  
 
-# Heading1
-## Heading2
-### Heading3
-#### Heading4
-##### Heading5
-###### Heading6
+4. Therefore, I decided to add seconds as well, which meant I had to adjust the clock base and its components to acommodate the change.
+![DcJzCj.png](https://imgpile.com/images/DcJzCj.png)
 
-**bold text**
-
-*italicized text*
-
-~~strikethrough text~~
-
-Ordered List:
-1. First item
-2. Second item
-3. Third item
-
-Unordered List:
-- First item
-- Second item
-- Third item
-
-`short code block`
-
-```
-extended code block
-fun() {
-  return 0
-}
-```
-
-Link:  
-[linked text](https://www.example.com)
+5. Finally, I added a clock button, as seen in the final version.
 
 
 Image with url:  
 ![image description](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
-
-
-Image on repo:  
-![image description](./file-name.jpg)
-
-
-To start a new line, add two spaces at the end of a line, like this:  
-this is a new line.
-
-
-To start a new paragraph, leave an empty line between two lines of text.
-
-This is a new paragraph.
